@@ -180,7 +180,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
+    type: 3}
   m_Color: {r: 1, g: 0.7803922, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -188,7 +189,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &196891020
@@ -263,10 +264,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: YOU ESCAPED!
+  m_text: YOU GOT THE CHEESE!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
-  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
+  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -563,7 +565,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b,
+    type: 3}
   m_Color: {r: 1, g: 0.78070736, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -571,7 +574,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1070710508
@@ -744,7 +747,8 @@ MonoBehaviour:
 '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
-  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
+  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1275,7 +1279,8 @@ MonoBehaviour:
   m_text: 'Score:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
-  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
+  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
