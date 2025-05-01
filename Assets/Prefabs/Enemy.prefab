@@ -793,7 +793,7 @@ GameObject:
   - component: {fileID: 2363434557996569268}
   - component: {fileID: 6665492612970595674}
   - component: {fileID: 2146924545907464256}
-  - component: {fileID: 6165118013913466810}
+  - component: {fileID: 574939367530933667}
   m_Layer: 6
   m_Name: Enemy
   m_TagString: enemy
@@ -924,8 +924,8 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 1fe969ad4ffdef84db111a2c3542f9dd, type: 2}
---- !u!135 &6165118013913466810
-SphereCollider:
+--- !u!136 &574939367530933667
+CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -942,9 +942,11 @@ SphereCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Radius: 0.5
-  m_Center: {x: 0, y: -0.65, z: 0}
+  serializedVersion: 2
+  m_Radius: 0.58
+  m_Height: 4.49
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1881328365419954089
 GameObject:
   m_ObjectHideFlags: 0
