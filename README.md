@@ -16,6 +16,7 @@
 - Music and Sound effects made by me
 # References to resources used in the project
 Models and animations from: Mixamo.com
+
 Kenney Blaster Kit: https://kenney.nl/assets/blaster-kit
 # Created by
 Blayne Baker
