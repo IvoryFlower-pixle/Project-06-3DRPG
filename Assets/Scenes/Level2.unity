@@ -1815,6 +1815,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2336611299061769204, guid: 3d67b43ff64a19f458d127e3b86d7e19,
+        type: 3}
+      propertyPath: m_text
+      value: 'Quest: Talk to Lucy and Kill the Mice'
+      objectReference: {fileID: 0}
     - target: {fileID: 4708348247889945533, guid: 3d67b43ff64a19f458d127e3b86d7e19,
         type: 3}
       propertyPath: m_Name
